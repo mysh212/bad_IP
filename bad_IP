@@ -1,59 +1,59 @@
-Require not ip 103.168.67.253
-Require not ip 129.146.188.65
-Require not ip 136.64.86.104
-Require not ip 146.70.194.236
-Require not ip 16.54.249.51
-Require not ip 172.235.204.8
-Require not ip 172.235.208.226
-Require not ip 172.235.62.172
-Require not ip 172.236.241.195
-Require not ip 173.255.220.144
-Require not ip 173.255.247.94
-Require not ip 195.178.110.105
-Require not ip 195.178.110.15
-Require not ip 195.178.110.211
-Require not ip 195.178.110.22
-Require not ip 2400:8905::2000:98ff:fec7:74a8
-Require not ip 2600:3c00::2000:a2ff:fe40:da97
-Require not ip 2600:3c00::2000:acff:fe19:7677
-Require not ip 2600:3c00::2000:deff:fe69:149d
-Require not ip 2600:3c01::2000:ff:fe8e:9f08
-Require not ip 31.59.160.30
-Require not ip 3.25.255.92
-Require not ip 34.100.181.203
-Require not ip 34.130.166.140
-Require not ip 34.150.138.30
-Require not ip 34.165.125.60
-Require not ip 34.165.29.107
-Require not ip 34.165.50.253
-Require not ip 34.179.196.136
-Require not ip 34.19.129.225
-Require not ip 34.48.231.110
-Require not ip 34.48.3.152
-Require not ip 34.7.192.212
-Require not ip 34.97.180.84
-Require not ip 35.205.58.110
-Require not ip 35.231.110.203
-Require not ip 35.231.179.123
-Require not ip 35.253.164.118
-Require not ip 4.232.64.120
-Require not ip 45.148.10.12
-Require not ip 45.148.10.123
-Require not ip 45.148.10.18
-Require not ip 45.148.10.40
-Require not ip 45.148.10.60
-Require not ip 45.148.10.64
-Require not ip 45.148.10.74
-Require not ip 45.33.55.185
-Require not ip 45.33.5.86
-Require not ip 45.79.173.39
-Require not ip 51.4.104.8
-Require not ip 62.60.130.230
-Require not ip 8.234.130.201
-Require not ip 8.234.34.213
-Require not ip 8.234.34.72
-Require not ip 8.234.56.159
-Require not ip 85.204.70.88
-Require not ip 91.148.244.131
-Require not ip 93.123.109.164
-Require not ip 97.107.128.162
+103.168.67.253
+129.146.188.65
+136.64.86.104
+146.70.194.236
+16.54.249.51
+172.235.204.8
+172.235.208.226
+172.235.62.172
+172.236.241.195
+173.255.220.144
+173.255.247.94
+195.178.110.105
+195.178.110.15
+195.178.110.211
+195.178.110.22
+2400:8905::2000:98ff:fec7:74a8
+2600:3c00::2000:a2ff:fe40:da97
+2600:3c00::2000:acff:fe19:7677
+2600:3c00::2000:deff:fe69:149d
+2600:3c01::2000:ff:fe8e:9f08
+31.59.160.30
+3.25.255.92
+34.100.181.203
+34.130.166.140
+34.150.138.30
+34.165.125.60
+34.165.29.107
+34.165.50.253
+34.179.196.136
+34.19.129.225
+34.48.231.110
+34.48.3.152
+34.7.192.212
+34.97.180.84
+35.205.58.110
+35.231.110.203
+35.231.179.123
+35.253.164.118
+4.232.64.120
+45.148.10.12
+45.148.10.123
+45.148.10.18
+45.148.10.40
+45.148.10.60
+45.148.10.64
+45.148.10.74
+45.33.55.185
+45.33.5.86
+45.79.173.39
+51.4.104.8
+62.60.130.230
+8.234.130.201
+8.234.34.213
+8.234.34.72
+8.234.56.159
+85.204.70.88
+91.148.244.131
+93.123.109.164
+97.107.128.162
